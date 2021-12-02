@@ -1,5 +1,5 @@
 
-# Is Your Birthday Palildrom or not 
+# Is Your Birthday Lucky or not 
 
 a js app to check is selected Birthday is a lucky or not.
 
